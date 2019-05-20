@@ -1,0 +1,15 @@
+{
+  "name": "primera-entrega",
+  "version": "1.0.0",
+  "description": "Primera entrega",
+  "main": "main.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andersson Villa Molina",
+  "license": "ISC"
+}
